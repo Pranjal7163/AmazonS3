@@ -1,0 +1,2 @@
+rootProject.name = "Amazons3"
+include ':app'
